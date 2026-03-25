@@ -27,9 +27,6 @@ Nature Computational Science
 Scientific Data
 Nature Methods
 Trends in Ecology & Evolution
-Annual Review of Ecology, Evolution, and Systematics
-Annual Review of Environment and Resources
-Annual Review of Earth and Planetary Sciences
 Biological Reviews
 Nature Reviews Earth & Environment
 Ecology Letters
@@ -63,15 +60,9 @@ Freshwater Biology
 Biogeochemistry
 Ecological Modelling
 Remote Sensing of Environment
-ISPRS Journal of Photogrammetry and Remote Sensing
-IEEE Transactions on Geoscience and Remote Sensing
-International Journal of Applied Earth Observation and Geoinformation
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 Remote Sensing Letters
 Remote Sensing Applications: Society and Environment
 Remote Sensing in Ecology and Conservation
-ISPRS International Journal of Geo-Information
 Journal of Machine Learning Research
 Journal of Artificial Intelligence Research
 Environmental Data Science
