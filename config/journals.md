@@ -15,7 +15,6 @@ Proceedings of the Royal Society B: Biological Sciences
 One Earth
 PeerJ
 eLife
-Cell
 iScience
 Nature Ecology & Evolution
 Nature Climate Change
@@ -35,17 +34,13 @@ Biological Reviews
 Nature Reviews Earth & Environment
 Ecology Letters
 Global Change Biology
-Conservation Letters
 Journal of Applied Ecology
-Conservation Biology
-Biological Conservation
 Ecological Applications
 Methods in Ecology and Evolution
 Ecology
 Journal of Ecology
 Oikos
 Oecologia
-Diversity and Distributions
 Global Ecology and Biogeography
 Functional Ecology
 Landscape Ecology
@@ -54,12 +49,7 @@ Frontiers in Ecology and the Environment
 The American Naturalist
 Ecography
 Biodiversity and Conservation
-Animal Conservation
-Perspectives in Plant Ecology, Evolution and Systematics
 Basic and Applied Ecology
-Plant Ecology
-Evolutionary Applications
-Journal of Animal Ecology
 Journal of Biogeography
 Restoration Ecology
 Urban Ecosystems
@@ -70,11 +60,6 @@ Ecological Monographs
 Ecological Indicators
 Marine Ecology Progress Series
 Freshwater Biology
-Forest Ecology and Management
-Wildlife Research
-Wildlife Society Bulletin
-The Journal of Wildlife Management
-Oryx
 Biogeochemistry
 Ecological Modelling
 Remote Sensing of Environment
@@ -114,5 +99,8 @@ People and Nature
 Ambio
 Geoscientific Model Development
 Big Earth Data
-Bioacoustics
 National Bureau of Economic Research
+Limnology and Oceanography
+Limnology and Oceanography Letters
+Global Biogeochemical Cycles
+Regional Environmental Change
