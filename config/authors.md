@@ -1,6 +1,6 @@
 Alison Appling
 Nandita Basu
-Kimberly Van Meter
+Kimberly J. Van Meter
 Jana Compton
 John Harrison
 Phil Haygarth 
