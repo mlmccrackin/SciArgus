@@ -81,17 +81,11 @@ Environmental Science & Policy
 Journal of Environmental Economics and Management
 Review of Environmental Economics and Policy
 Environmental and Resource Economics
-Advances in Neural Information Processing Systems
-International Conference on Machine Learning
-International Conference on Learning Representations
-Proceedings of the AAAI Conference on Artificial Intelligence
 Ecology and Society
 People and Nature
 Ambio
-Geoscientific Model Development
-Big Earth Data
-National Bureau of Economic Research
 Limnology and Oceanography
 Limnology and Oceanography Letters
 Global Biogeochemical Cycles
 Regional Environmental Change
+Water Resources Research
