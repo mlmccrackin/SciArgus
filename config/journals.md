@@ -89,3 +89,4 @@ Limnology and Oceanography Letters
 Global Biogeochemical Cycles
 Regional Environmental Change
 Water Resources Research
+Geophysical Research Letters
