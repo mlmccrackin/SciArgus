@@ -10,3 +10,5 @@ Heather Golden
 Michelle McCrackin
 Stephen Powers
 Nancy Grimm
+James Elser
+Tamara Harms
